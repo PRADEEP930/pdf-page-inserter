@@ -3,6 +3,7 @@
 A user-friendly Python GUI application for inserting, replacing, and manipulating pages between PDF documents with automatic page resizing.
 
 ![App Screenshot](app_screenshot.png)
+![Infograph Screenshot](app_infograph.png)
 
 ## ✨ Features
 
